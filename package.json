@@ -1,0 +1,30 @@
+{
+    "name": "libgen-search",
+    "version": "2.0.3",
+    "description": "Search API wrapper for the legendary website LibGen",
+    "main": "gen/index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/anmolkys/libgen-search.git"
+    },
+    "keywords": [
+      "library",
+      "genenis",
+      "free",
+      "book",
+      "libgen"
+    ],
+    "author": "anmolkys",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/anmolkys/libgen-search/issues"
+    },
+    "homepage": "https://github.com/anmolkys/libgen-search#readme",
+    "dependencies": {
+      "request": "^2.88.2",
+      "request-promise": "^4.2.6"
+    }
+  }
